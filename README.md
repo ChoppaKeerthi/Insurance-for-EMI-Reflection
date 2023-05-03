@@ -1,5 +1,5 @@
-# Insurance-for-EMI-Reflection
-# Project Description :
+# Project Description(Insurance-for-EMI-Reflection) :
+
       Company want to provided insurance based on the dataset that is provided. In that dataset they are providing insurance on the basis of age,BMI,Smokers.In our dataset we have analysed the age group on the basis of Adults(from 18 to 59) and Older Adults(above 59).BMI(Body Mass Index) takes to parameters like height and weight and BMI is calculated by (Weight)/(Height)**2.We have categorized the BMI on 4 categories like Under Weight,Normal Weight,Over Weight,Obesity and we are providing what kind of disesses they may face.There is One more category named smokers , for smokers charges will be bit high compared to non smokers. wehave people from NOrtheast,northwest,southeast,southwest.Our dataset Contains age group from 18 to 64 only . In order to provide insurance for children we are taking their parents account and provided them the required insurance.
 # Technologies Used : 
 Spark 
